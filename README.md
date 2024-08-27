@@ -1,7 +1,7 @@
 # Artifact of MetaBrain (In Submission of USENIX Security'25)
 
 <p align="left">
-     <img src="./vrbci.png" width = "800" height = "200" hspace="20"/>
+     <img src="./vrbci.jpg" width = "800" height = "200" hspace="20"/>
 </p>
 
 ## Content
